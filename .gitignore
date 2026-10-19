@@ -1,3 +1,10 @@
 /target
 log.txt
 .opencode/
+
+# Frontend and Tauri generated output
+/node_modules/
+/dist/
+/src-tauri/target/
+/src-tauri/gen/
+*.tsbuildinfo
